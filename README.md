@@ -1,4 +1,4 @@
 # DataBase-Project
 
 
-Project for showing different online judge records for all students who have a user-id in that online judge.
+DataBase Project for showing different online judge records on competitive programming for all students who have a user-id in that online judge.
